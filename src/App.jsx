@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import HomePage from "./routes/Homepage/homePage";
-import ListPage from "./routes/listPage/listPage";
+import ListPage from "./routes/listpage/listPage";
 import Layout from "./routes/layout/layout";
 import SinglePage from "./routes/singlePage/SinglePage";
 import ProfilePage from "./routes/profilePage/profilePage";
